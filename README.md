@@ -53,7 +53,7 @@ This new design has elements that have been the result of research regarding ink
 
 - [Download from Github](https://github.com/priyonggo/nextjs-material-kit/archive/main.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/nextjs-material-kit?ref=njsmk-readme).
-- Clone the repo: `git clone https://github.com/creativetimofficial/nextjs-material-kit.git`.
+- Clone the repo: `git clone https://github.com/priyonggo/nextjs-material-kit.git`.
 - `npm i nextjs-material-kit`
 - Install with [Bower](https://bower.io/?ref=creativetim): `bower install nextjs-material-kit`.
 
